@@ -1,0 +1,4 @@
+{
+	"endPoint" : "https://<your ddb acct>.documents.azure.com:443/",
+	"masterKey" : "<your key>"
+}
